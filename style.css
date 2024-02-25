@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+.clock{
+    height:99vh;
+    width:99vw;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.time{
+    background-color: #2f2828;
+    color: aliceblue;
+    height:200px;
+    width:200px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    font-weight: 700;
+}
+
